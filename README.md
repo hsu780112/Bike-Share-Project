@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project leverages machine learning to predict loan payment statuses accurately. By doing so, it offers lending institutions enhanced risk assessment, decision-making processes, and the potential to minimize financial losses.
+
 
 ## Dataset
 
