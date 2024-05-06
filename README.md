@@ -5,7 +5,7 @@
 </div></div> 
 
 ## Project Overview
-
+This project utilizes machine learning to enhance the efficiency and accessibility of the bike share system in the SF Bay Area. By predicting usage patterns for specific time periods, we can optimize bike availability through strategic redistribution, ensuring they are accessible where and when they are most needed. This approach aims to improve the user experience and promote increased bike share usage.
 
 
 ## Dataset
