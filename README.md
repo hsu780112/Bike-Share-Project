@@ -12,7 +12,7 @@ This project utilizes machine learning to enhance the efficiency and accessibili
 
 The dataset comes from **kaggle**, which is the world's largest data science community. 
 This dataset contains information about the location of bike stations, including the coordinates of the stations and the available number of docks. The dataset also includes the status of each bike station, including the number of available bikes and docks at a specific time. It can be used to analyze station accessibility and demand. The individual bike trips data could help us understand commuting patterns and trip durations. The weather data provides temperature and humidity
-information for specific zip codes on a specific day.
+information for the area on a specific day.
 
 Reference: https://www.kaggle.com/datasets/benhamner/sf-bay-area-bike-share/code
 
@@ -41,7 +41,7 @@ trips.csv : Data about individual bike trips
   - End Station Name
   - Bike ID
 
-weather.csv : Data about the weather on a specific day for certain zip codes
+weather.csv : Data about the weather on a specific day for the area
   - Date
   - Max Temperature
   - mean Temperature
