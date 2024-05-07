@@ -59,7 +59,7 @@ weather.csv : Data about the weather on a specific day for the area
 We began by addressing inconsistencies and missing values in our dataset to ensure its suitability for modeling purposes. Furthermore, we identified relevant columns and features for our model, eliminating redundancies. We also created new columns and categorized the results to facilitate our analysis.
 
 ### Exploratory Data Analysis (EDA)
-EDA helped understand feature distributions and relationships with loan status, thus informing model choice and guiding feature engineering.
+Exploratory Data Analysis (EDA) was instrumental in our understanding of the main characteristics of the data, particularly its distribution. Through EDA, we were able to uncover patterns and relationships related to bike station usage status. These insights informed our choice of models and guided our feature engineering process.
 
 ### Feature Engineering
 
