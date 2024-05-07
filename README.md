@@ -44,7 +44,7 @@ trips.csv : Data about individual bike trips
 weather.csv : Data about the weather on a specific day for the area
   - Date
   - Max Temperature
-  - mean Temperature
+  - Mean Temperature
   - Min Temperature
   - Max Dew Point
   - Mean Dew Point
