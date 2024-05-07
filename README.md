@@ -62,10 +62,12 @@ We began by addressing inconsistencies and missing values in our dataset to ensu
 Exploratory Data Analysis (EDA) was instrumental in our understanding of the main characteristics of the data, particularly its distribution. Through EDA, we were able to uncover patterns and relationships related to bike station usage status. These insights informed our choice of models and guided our feature engineering process.
 
 ### Feature Engineering
+(under construction)
 
 
 ### Modeling
-
+(under construction)
 
 
 ## Findings and Conclusions
+(under construction)
