@@ -56,7 +56,7 @@ weather.csv : Data about the weather on a specific day for the area
 ## Project Workflow
 
 ### Data Cleaning
-We started by handling inconsistencies and missing values in our dataset before using it for modeling. In addition, we identified the columns and features suitable for our model while eliminating any redundancies.
+We began by addressing inconsistencies and missing values in our dataset to ensure its suitability for modeling purposes. Furthermore, we identified relevant columns and features for our model, eliminating redundancies. We also created new columns and categorized the results to facilitate our analysis.
 
 ### Exploratory Data Analysis (EDA)
 EDA helped understand feature distributions and relationships with loan status, thus informing model choice and guiding feature engineering.
