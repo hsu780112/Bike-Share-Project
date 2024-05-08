@@ -43,15 +43,29 @@ trips.csv : Data about individual bike trips
 
 weather.csv : Data about the weather on a specific day for the area
   - Date
-  - Max Temperature
-  - Mean Temperature
-  - Min Temperature
-  - Max Dew Point
-  - Mean Dew Point
-  - Min Dew Point
-  - Max Humidity
-  - Mean Humidity
-  - Min Humidity
+  - Max_temperature_f                    
+  - Mean_temperature_f                   
+  - Min_temperature_f                    
+  - Max_dew_point_f                     
+  - Mean_dew_point_f                    
+  - Min_dew_point_f                     
+  - Max_humidity                        
+  - Mean_humidity                       
+  - Min_humidity                        
+  - Max_sea_level_pressure_inches        
+  - Mean_sea_level_pressure_inches       
+  - Min_sea_level_pressure_inches       
+  - Max_visibility_miles                
+  - Mean_visibility_miles               
+  - Min_visibility_miles                
+  - Max_wind_Speed_mph                   
+  - Mean_wind_speed_mph                 
+  - Max_gust_speed_mph                 
+  - Precipitation_inches                 
+  - Cloud_cover                          
+  - Events                            
+  - Wind_dir_degrees                     
+  - Zip_code     
 
 ## Project Workflow
 
