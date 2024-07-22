@@ -80,8 +80,12 @@ We applied one-hot encoding to the existing data, converting categorical variabl
 
 
 ### Modeling
-Logistics Regression
-
+- Logistics Regression
+- Decision Tree
+- Random Forest
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- XGBoost
 
 ## Findings and Conclusions
 (under construction)
