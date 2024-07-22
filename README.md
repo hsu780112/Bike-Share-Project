@@ -80,6 +80,7 @@ We applied one-hot encoding to the existing data, converting categorical variabl
 
 
 ### Modeling
+We developed and evaluated the following baseline models, optimizing each by finding the appropriate hyperparameters:
 - Logistics Regression
 - Decision Tree
 - Random Forest
