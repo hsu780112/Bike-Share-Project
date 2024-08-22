@@ -91,7 +91,7 @@ We developed and evaluated the following baseline models, optimizing each by fin
 The XGBoost model was chosen for its superior performance.
 
 ## Findings and Conclusions
-The XGBoost model shows a strong performance with a train score of 0.873 and a test score of 0.821, indicating good generalization to unseen data.
+The XGBoost model performs well, particularly for Class 1 (median usage rate), where it exhibits high precision and recall. The model shows good overall accuracy, with an 82% test score, indicating that it is well-suited for the task, although there is room for improvement, especially in accurately classifying instances of Class 0 (low usage rate) and Class 2 (high usage rate).
 
 Potential improvements include:
 
@@ -99,6 +99,6 @@ Potential improvements include:
 
 - Incorporating Additional Features: Introducing features not included in the current dataset could enhance the model's predictive power.
 
-- Exploring Alternative Models: While the XGBoost model performed best in this project, experimenting with other approaches, such as neural networks or ensemble methods, could yield better results.
+- Exploring Alternative Models: While the XGBoost model performed best in this project, experimenting with other approaches, such as neural networks could yield better results.
 
 - Balancing Predictive Power with Interpretability: Future work could focus on models that offer a balance between predictive accuracy and interpretability, depending on the needs of the end user.
