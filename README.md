@@ -87,6 +87,18 @@ We developed and evaluated the following baseline models, optimizing each by fin
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
 - XGBoost
+  
+The XGBoost model was chosen for its superior performance.
 
 ## Findings and Conclusions
-(under construction)
+The XGBoost model shows a strong performance with a train score of 0.873 and a test score of 0.821, indicating good generalization to unseen data.
+
+Potential improvements include:
+
+- Addressing Class Imbalance: The dataset exhibited a significant imbalance, with far more median usage rate instances than high and low classes. Techniques such as random oversampling could be employed to mitigate this imbalance.
+
+- Incorporating Additional Features: Introducing features not included in the current dataset could enhance the model's predictive power.
+
+- Exploring Alternative Models: While the XGBoost model performed best in this project, experimenting with other approaches, such as neural networks or ensemble methods, could yield better results.
+
+- Balancing Predictive Power with Interpretability: Future work could focus on models that offer a balance between predictive accuracy and interpretability, depending on the needs of the end user.
